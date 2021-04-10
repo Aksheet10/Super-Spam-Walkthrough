@@ -57,7 +57,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	 Lets navigate into that directory and check its contents
 	 
 	
-	 ![Pasted image 20210228103704](https://user-images.githubusercontent.com/71016915/109418017-1c5c8400-79ec-11eb-8185-a402765a5f06.png)
+	 ![image](https://user-images.githubusercontent.com/71016915/114277040-10ca9700-9a47-11eb-838b-9b0c1dfb4441.png)
+
 
 	 
 	 Lots of files, but if u see the file size, there are huge files and some ***0 bytes*** files, so i don't think they shall be the files we need.
