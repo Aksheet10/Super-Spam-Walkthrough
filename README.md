@@ -18,7 +18,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	`nmap -sV 10.10.103.218 -p 80,4012,4019`
 	
-	![Pasted image 20210228102755](https://user-images.githubusercontent.com/71016915/109417977-eddea900-79eb-11eb-8673-baf347110763.png)
+	![image](https://user-images.githubusercontent.com/71016915/114276846-18d60700-9a46-11eb-9b7c-86dcaf901a40.png)
+
 
 	
 	**_Port 80 = HTTP_**
@@ -83,3 +84,5 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	 Password : ***[REDACTED]***
 	
 	 Now we have a password!!
+	 
+
