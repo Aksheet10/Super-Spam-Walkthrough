@@ -28,6 +28,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	**_Port 4019 = FTP_**
 	
+	**_Port 5901 = VNC_**
+	
 - #### FTP
 	Lets login in FTP with **anonymous**
 	
