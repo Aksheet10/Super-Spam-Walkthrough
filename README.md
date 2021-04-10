@@ -10,7 +10,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
  - #### Let's scan the machine with rustscan for open ports
 	`rustscan -a 10.10.103.218`
 
-	![Pasted image 20210228102250](https://user-images.githubusercontent.com/71016915/109417969-e3241400-79eb-11eb-9b87-c1bfd8fe7a97.png)
+	![image](https://user-images.githubusercontent.com/71016915/114276846-18d60700-9a46-11eb-9b7c-86dcaf901a40.png)
 	
 	We can see 3 open ports 80, 4012 and 4019
 	
@@ -18,8 +18,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	`nmap -sV 10.10.103.218 -p 80,4012,4019`
 	
-	![image](https://user-images.githubusercontent.com/71016915/114276846-18d60700-9a46-11eb-9b7c-86dcaf901a40.png)
-
+	![Pasted image 20210228102755](https://user-images.githubusercontent.com/71016915/109417977-eddea900-79eb-11eb-8673-baf347110763.png)
 
 	
 	**_Port 80 = HTTP_**
