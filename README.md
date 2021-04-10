@@ -12,13 +12,14 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	![image](https://user-images.githubusercontent.com/71016915/114276846-18d60700-9a46-11eb-9b7c-86dcaf901a40.png)
 	
-	We can see 3 open ports 80, 4012 and 4019
+	We can see 5 open ports 80, 4012, 4019, 5901 and 6001
 	
 	Lets use NMAP to perform version detection
 	
-	`nmap -sV 10.10.103.218 -p 80,4012,4019`
+	`nmap -sV 10.10.103.218 -p 80,4012,4019,5901,6001 -T4`
 	
-	![Pasted image 20210228102755](https://user-images.githubusercontent.com/71016915/109417977-eddea900-79eb-11eb-8673-baf347110763.png)
+	![image](https://user-images.githubusercontent.com/71016915/114276947-939f2200-9a46-11eb-8074-7940d622ba13.png)
+
 
 	
 	**_Port 80 = HTTP_**
