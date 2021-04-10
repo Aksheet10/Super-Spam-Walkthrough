@@ -153,7 +153,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Download this on your machine and change the ip address in it using a text edittor
 	
-	Now lets upload this in the website and set up a listener on *our*  machine - `nc -lvnp 1234` (replace 1234 with the port you have changed in the php reverse shell script
+	Now lets upload this in the website and set up a listener on *our*  machine - `nc -lvnp 1234` (replace 1234 with the port you have changed in the php reverse shell script)
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278654-753d2480-9a4e-11eb-9828-934975a4d160.png)
 
@@ -174,6 +174,26 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	Now lets try to upload again
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278834-3bb8e900-9a4f-11eb-817f-be17d5e30028.png)
+	
+	Click on `Upload Files` on the top right
+	
+	![image](https://user-images.githubusercontent.com/71016915/114278866-63a84c80-9a4f-11eb-8702-8b00ec506494.png)
+
+	Boom!! Its successfull!
+	
+	Now lets click `close`.
+	
+	Now set up a listener `nc -lvnp 1234`(replace 1234 with the port you have changed in the php reverse shell script)
+	
+	![image](https://user-images.githubusercontent.com/71016915/114278943-a9fdab80-9a4f-11eb-9a21-aac06af1fefe.png)
+	
+	![image](https://user-images.githubusercontent.com/71016915/114278906-820e4800-9a4f-11eb-954a-1ea962eb3425.png)
+	
+
+	
+	
+
+
 
 
 
