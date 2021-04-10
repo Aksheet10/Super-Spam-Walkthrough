@@ -134,7 +134,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	![image](https://user-images.githubusercontent.com/71016915/114277687-dadae200-9a49-11eb-9e1e-b6f141dab9a7.png)
 	
-	Click on   ![image](https://user-images.githubusercontent.com/71016915/114277702-ee864880-9a49-11eb-9be0-ac3c2fc75d59.png)
+	Click on
+	![image](https://user-images.githubusercontent.com/71016915/114277702-ee864880-9a49-11eb-9be0-ac3c2fc75d59.png)
 	
 	And you will see a site like this
 	
@@ -145,5 +146,11 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	You will see a site like this
 	![image](https://user-images.githubusercontent.com/71016915/114277864-a156a680-9a4a-11eb-9709-11aebc9b2e6e.png)
+	
+	---
+	
+	On your attacker machine
+	
+	
 
 
