@@ -143,5 +143,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	Click on **File Manager** under **Files** section
 	![image](https://user-images.githubusercontent.com/71016915/114277798-5d63a180-9a4a-11eb-985a-e2ab9becb682.png)
 
+	You will see a site like this
+	![image](https://user-images.githubusercontent.com/71016915/114277864-a156a680-9a4a-11eb-9709-11aebc9b2e6e.png)
 
 
