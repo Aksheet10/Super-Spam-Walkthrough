@@ -157,8 +157,16 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278654-753d2480-9a4e-11eb-9828-934975a4d160.png)
 
+	Looks like .php extension is an invalid extension
+	
+	Lets fix that.
+	
+	![image](https://user-images.githubusercontent.com/71016915/114278719-b9c8c000-9a4e-11eb-82ac-177523e7a080.png)
 	
 	
+	![image](https://user-images.githubusercontent.com/71016915/114278749-d238da80-9a4e-11eb-8193-0471ed7a4b67.png)
+
+
 	
 	
 
