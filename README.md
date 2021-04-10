@@ -167,7 +167,15 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	![image](https://user-images.githubusercontent.com/71016915/114278749-d238da80-9a4e-11eb-8193-0471ed7a4b67.png)
 
 
+	![image](https://user-images.githubusercontent.com/71016915/114278804-0dd3a480-9a4f-11eb-8497-bee8ff050ef9.png)
 	
+	Click on Save
 	
+	Now lets try to upload again
+	
+	![image](https://user-images.githubusercontent.com/71016915/114278834-3bb8e900-9a4f-11eb-817f-be17d5e30028.png)
+
+
+
 
 
