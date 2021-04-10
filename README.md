@@ -105,6 +105,14 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	After viewing all the blogs, I found these usernames
 	 -	***Adam_Admin***
 	 -	***Benjamin_Blogger***
+	 -	***Donalddump***
 	 -	***Lucy_Loser***
-	 -	 ***Donalddump***
 	
+	We have 1 password and 4 users. Let's try logging in.
+	
+	Scroll all the way down
+	![image](https://user-images.githubusercontent.com/71016915/114277339-66ec0a00-9a48-11eb-9523-41382e86f59b.png)
+
+	After trying the password for all user's. We can see the the password [REDACTED] works for the user [REDACTED].	
+	
+
