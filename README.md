@@ -122,6 +122,16 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	After login we can see this page.
 	![image](https://user-images.githubusercontent.com/71016915/114277449-dc57da80-9a48-11eb-98f7-bc122325af1d.png)
 	
+	`http://ip/concrete5/index.php/dashboard/welcome`
+	
+	Now just change the url to `ip`
+	![image](https://user-images.githubusercontent.com/71016915/114277581-5f793080-9a49-11eb-8bc5-dddfab22972b.png)
+	
+	Scroll a bit down and click on this
+	![image](https://user-images.githubusercontent.com/71016915/114277604-6e5fe300-9a49-11eb-882a-9b0874adc965.png)
+
+
+	
 	
 	
 	
