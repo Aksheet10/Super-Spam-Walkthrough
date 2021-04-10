@@ -93,4 +93,17 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 - #### Website
 	Lets check out the *website*.
+	
+	![image](https://user-images.githubusercontent.com/71016915/114277108-7585f180-9a47-11eb-9103-7e41a765222f.png)
+	
+	Lets try finding username's in the website
+	
+	![image](https://user-images.githubusercontent.com/71016915/114277145-a0704580-9a47-11eb-890a-b21c083056c1.png)
 
+	Click on **Blog**
+
+	After viewing all the blogs, I found these usernames
+	 -	***Adam_Admin***
+	 -	***Benjamin_Blogger***
+	 -	***Lucy_Loser***
+	
