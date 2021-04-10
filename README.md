@@ -146,10 +146,19 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	You will see a site like this
 	![image](https://user-images.githubusercontent.com/71016915/114277864-a156a680-9a4a-11eb-9709-11aebc9b2e6e.png)
+	Click on `upload file`
 	
-	---
+		
+	Upload a PHP revserse shell. You can find it [here](https://github.com/pentestmonkey/php-reverse-shell).
 	
-	On your attacker machine
+	Download this on your machine and change the ip address in it using a text edittor
+	
+	Now lets upload this in the website and set up a listener on *our*  machine - `nc -lvnp 1234` (replace 1234 with the port you have changed in the php reverse shell script
+	
+	![image](https://user-images.githubusercontent.com/71016915/114278654-753d2480-9a4e-11eb-9828-934975a4d160.png)
+
+	
+	
 	
 	
 
