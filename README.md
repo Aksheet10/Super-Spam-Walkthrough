@@ -189,9 +189,9 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278906-820e4800-9a4f-11eb-954a-1ea962eb3425.png)
 	
-
+	After you click on that link. You will get a reverse shell.
 	
-	
+	![image](https://user-images.githubusercontent.com/71016915/114279027-33ad7900-9a50-11eb-8462-96184c647197.png)
 
 
 
