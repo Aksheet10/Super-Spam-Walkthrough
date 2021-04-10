@@ -111,8 +111,18 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	We have 1 password and 4 users. Let's try logging in.
 	
 	Scroll all the way down
-	![image](https://user-images.githubusercontent.com/71016915/114277339-66ec0a00-9a48-11eb-9523-41382e86f59b.png)
+	![image](https://user-images.githubusercontent.com/71016915/114277360-7b300700-9a48-11eb-8b73-ab32665477ea.png)
+
 
 	After trying the password for all user's. We can see the the password [REDACTED] works for the user [REDACTED].	
+	
+	![image](https://user-images.githubusercontent.com/71016915/114277411-b6323a80-9a48-11eb-8d3b-a9910606d244.png)
+	
+
+	After login we can see this page.
+	![image](https://user-images.githubusercontent.com/71016915/114277449-dc57da80-9a48-11eb-98f7-bc122325af1d.png)
+	
+	
+	
 	
 
