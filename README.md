@@ -127,12 +127,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	Now just change the url to `ip`
 	![image](https://user-images.githubusercontent.com/71016915/114277581-5f793080-9a49-11eb-8bc5-dddfab22972b.png)
 	
-	Scroll a bit down and click on this
+	Scroll a bit down and click on any of them.
 	![image](https://user-images.githubusercontent.com/71016915/114277604-6e5fe300-9a49-11eb-882a-9b0874adc965.png)
-
-
 	
-	
-	
-	
-
+	You will see these button's on the top right
+	![image](https://user-images.githubusercontent.com/71016915/114277654-af57f780-9a49-11eb-8c85-25e662bd7125.png)
