@@ -373,8 +373,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	By copying the **what am i?** string and paste it in [CyberChef](https://gchq.github.io/CyberChef/)
 	
 	![Pasted image 20210228165937](https://user-images.githubusercontent.com/71016915/109419801-3a7ab200-79f5-11eb-81fd-afc166225943.png)
-	
-	Click on on the wand next to *Output*.
+	![image](https://user-images.githubusercontent.com/71016915/114301483-c39c0300-9ae2-11eb-972f-6d9dc163da11.png)
+
 
 	![image](https://user-images.githubusercontent.com/71016915/114301423-6b650100-9ae2-11eb-8d01-4ce537fb72b1.png)
 	
