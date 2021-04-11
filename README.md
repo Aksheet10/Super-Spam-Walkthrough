@@ -30,7 +30,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	**_Port 5901 = VNC_**
 	
-	Q1. What CMS and version is being used? (format: wordpress x.x.x)
+	
+	#### Q1. What CMS and version is being used? (format: wordpress x.x.x)
 	
 	`nmap -A -p 80 -T4 ip`
 	![image](https://user-images.githubusercontent.com/71016915/114291631-a6494380-9aa6-11eb-9152-6a7f5bc71187.png)
@@ -149,6 +150,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	![image](https://user-images.githubusercontent.com/71016915/114277739-22fa0480-9a4a-11eb-8014-e3ff85c94b28.png)
 	
 	Click on **File Manager** under **Files** section
+	
 	![image](https://user-images.githubusercontent.com/71016915/114277798-5d63a180-9a4a-11eb-985a-e2ab9becb682.png)
 
 	You will see a site like this
