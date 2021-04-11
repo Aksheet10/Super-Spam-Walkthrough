@@ -201,9 +201,12 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Now set up a listener `nc -lvnp 1234`(replace 1234 with the port you have changed in the php reverse shell script)
 	
-	![image](https://user-images.githubusercontent.com/71016915/114278943-a9fdab80-9a4f-11eb-9a21-aac06af1fefe.png)
 	
-	![image](https://user-images.githubusercontent.com/71016915/114278906-820e4800-9a4f-11eb-954a-1ea962eb3425.png)
+
+	![image](https://user-images.githubusercontent.com/71016915/114295659-3fd31e00-9ac4-11eb-9a68-92ea6968820f.png)
+
+	
+	
 	
 	After you click on that link. You will get a reverse shell.
 	
