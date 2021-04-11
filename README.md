@@ -255,6 +255,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	To get it on your machine follow these steps
 	
+	
 	```
 	wget ip:2222/c1.png
 	wget ip:2222/c2.png
@@ -324,6 +325,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	![image](https://user-images.githubusercontent.com/71016915/114300433-f1327d80-9add-11eb-9af5-17feab92e80d.png)
 
 
+	Do port forwarding with ssh as you know **donald_dump**'s password  , `ssh -L 5901:localhost:5901 donalddump@ip`
 	
 
 	
