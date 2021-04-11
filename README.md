@@ -293,5 +293,17 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	After trying each user i found out the we could use the user `donalddump` to login using that password.
 	
+	![image](https://user-images.githubusercontent.com/71016915/114297507-a78e6680-9ace-11eb-861f-d7601dd647ba.png)
+	
+	Let's SSH into donalddump
+	
+	`ssh donalddump@ip -p 4012`  and password which you found in the image
+	
+	![image](https://user-images.githubusercontent.com/71016915/114297605-153a9280-9acf-11eb-8a6a-8dde4f9529b8.png)
+	
+	Lets browse in our home directory
+	
+	![image](https://user-images.githubusercontent.com/71016915/114297618-297e8f80-9acf-11eb-9aad-3c599cdadb55.png)
 
+	Permission denied - Lets try to change the permissions of the `/home/donalddump` - `chmod 777 /home/donalddump`
 	
