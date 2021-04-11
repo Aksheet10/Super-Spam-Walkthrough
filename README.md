@@ -209,6 +209,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	After you click on that link. You will get a reverse shell.
 	
+	Lets upgrade our shell by using `python3 -c 'import pty;pty.spawn("/bin/bash")'`
+	
 	![image](https://user-images.githubusercontent.com/71016915/114279027-33ad7900-9a50-11eb-8462-96184c647197.png)
 	
 	Navigate to `/home/personal`.
@@ -281,6 +283,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	We can find a password
 	
+	After trying each user i found out the we could use the user `donalddump` to login using that password.
 	
 
 	
