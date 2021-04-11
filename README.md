@@ -237,19 +237,50 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	![image](https://user-images.githubusercontent.com/71016915/114291969-f4f7dd00-9aa8-11eb-98b2-5e5a10198d73.png)
 	
 	
-	Lets download all the `png`s to our machine using a python3 http server - `python3 -m http.server 8080`. 
-	Remember to run it in while you are in the `.MessagesBackupToGalactic` folder
+	Lets download all the `png`s to our machine using a python3 http server - `python3 -m http.server 2222`. 
+	Remember to run it in while you are in the `.MessagesBackupToGalactic` folder.
+	
+	![image](https://user-images.githubusercontent.com/71016915/114296127-1071e080-9ac7-11eb-8dd3-84c8380cb7cb.png)
+
 	
 	To get it on your machine follow these steps
 	
 	```
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-	wget ip:8080/c1.png```
+	wget ip:2222/c1.png
+	wget ip:2222/c2.png
+	wget ip:2222/c3.png
+	wget ip:2222/c4.png
+	wget ip:2222/c5.png
+	wget ip:2222/c6.png
+	wget ip:2222/c7.png
+	wget ip:2222/c8.png
+	wget ip:2222/c9.png
+	wget ip:2222/xored.py
+	```
+	
+	Now Lets run the `xored.py` script.
+	For it to work you would need PILLOW installed
+	
+	`pip3 install pillow`
+	
+	Lets run the script.
+	
+	![image](https://user-images.githubusercontent.com/71016915/114296245-dd7c1c80-9ac7-11eb-846f-6132e87c625b.png)
+
+
+	It requires 2 png files. After trying a lot i found out `c2.png` and `c8.png` worked
+	
+	![image](https://user-images.githubusercontent.com/71016915/114296281-13b99c00-9ac8-11eb-84fe-6f83079ec6bd.png)
+	
+	Lets view our newly made file `c28.png`
+	
+	#### Q4. What key information was embedded in one of super-spam's encrypted messages?
+		[redacted]
+		
+	![image](https://user-images.githubusercontent.com/71016915/114296317-57140a80-9ac8-11eb-84ae-c0951ebea51d.png)
+	
+	We can find a password
+	
+	
+
+	
