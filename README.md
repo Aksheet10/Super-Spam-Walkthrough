@@ -307,3 +307,6 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	Permission denied - Lets try to change the permissions of the `/home/donalddump` - `chmod 777 /home/donalddump`
 	
+	![image](https://user-images.githubusercontent.com/71016915/114297647-6ea2c180-9acf-11eb-9101-d2671636af9f.png)
+
+	
