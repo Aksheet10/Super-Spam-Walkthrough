@@ -386,7 +386,10 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	#### Just for fun, I decoded the other string and this is the decoded string.
 	
-	![Pasted image 20210228170522](https://user-images.githubusercontent.com/71016915/109419711-cfc97680-79f4-11eb-8c1a-494960cee23f.png)
+	![image](https://user-images.githubusercontent.com/71016915/114301647-6fdde980-9ae3-11eb-889e-cc1271c0fdf5.png)
+
+		
+	![image](https://user-images.githubusercontent.com/71016915/114301611-44f39580-9ae3-11eb-8461-fa7f3b81a3d9.png)
 
 	
 	---
