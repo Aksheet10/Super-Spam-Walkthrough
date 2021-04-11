@@ -240,7 +240,6 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	Lets download all the `png`s to our machine using a python3 http server - `python3 -m http.server 8080`. 
 	Remember to run it in while you are in the `.MessagesBackupToGalactic` folder
 	
+	To get it on your machine follow these steps
 	
-	
-
-
+	`wget ip:8080/c*.png`
