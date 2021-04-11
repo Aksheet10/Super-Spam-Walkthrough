@@ -243,7 +243,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	#### Q3. What type of encryption did super-spam use to send his encrypted messages?
 		- XOR
 
-	![image](https://user-images.githubusercontent.com/71016915/114291969-f4f7dd00-9aa8-11eb-98b2-5e5a10198d73.png)
+	![image](https://user-images.githubusercontent.com/71016915/114296784-becb5500-9aca-11eb-8224-4990e90ce66c.png)
 	
 	
 	Lets download all the `png`s to our machine using a python3 http server - `python3 -m http.server 2222`. 
