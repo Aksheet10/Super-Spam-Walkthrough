@@ -3,7 +3,9 @@
  
  **(Note to tester: the machine needs more resources to speed up this time)**
  
-This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the machine boots up, the web server can have an issue, in that case please reboot the machine, we recommend machine notes so that u dont have to do forget what u did, thanks :)
+This machine can take 5-10 minutes to setup. 
+
+Good luck Have fun solving it :)
 
 ---
 
