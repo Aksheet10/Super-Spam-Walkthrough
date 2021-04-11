@@ -337,7 +337,55 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	---
 	
-	#### Note : Make sure you have VNCviewer installed, if not please install it using this [link](https://www.realvnc.com/en/connect/download/viewer/linux/)
+	#### Note : Make sure you have VNCviewer installed, if not please install it using this [link](https://www.realvnc.com/en/connect/download/viewer/linux/) or `sudo apt install tigervnc-viewer`
 	
+	Run - `vncviewer -passwd passwd_file ip::5901`  on your machine.
+	
+	- passwd_file was the one we transfered from Superspam to our machine which was in the donalddump home directory.
+	
+	![image](https://user-images.githubusercontent.com/71016915/114301063-a9f9bc00-9ae0-11eb-9f18-dc8e7d2e2cde.png)
+
+	Let's change the root password and then log in as root from `ssh`
+	
+	`passwd`
+	
+	![image](https://user-images.githubusercontent.com/71016915/114301129-f80ebf80-9ae0-11eb-9c9e-f799ca64bb26.png)
+
+	I changed the password to `1234`
+	
+	Lets do `su root` in the donalddump ssh shell
+	
+	![image](https://user-images.githubusercontent.com/71016915/114301172-3ad09780-9ae1-11eb-8cf0-385ffba34fbf.png)
+
+	![image](https://user-images.githubusercontent.com/71016915/114301206-7b301580-9ae1-11eb-9a3d-876186b69f47.png)
+
+	We see a unusual hidden directory called `.nothing`
+	
+	Lets browse in it and check its content.
+	
+	![image](https://user-images.githubusercontent.com/71016915/114301230-9864e400-9ae1-11eb-90f9-39d744b5592c.png)
+	
+	We see a `r00t.txt` file. Lets get the contents of the file -  `cat r00t.txt`
+	
+	![image](https://user-images.githubusercontent.com/71016915/114301267-c5b19200-9ae1-11eb-8e66-411e3ad90891.png)
+
+
+	By copying the **what am i?** string and paste it in [CyberChef](https://gchq.github.io/CyberChef/)
+	
+	![Pasted image 20210228165937](https://user-images.githubusercontent.com/71016915/109419801-3a7ab200-79f5-11eb-81fd-afc166225943.png)
+	
+	Click on on the wand next to *Output*.
+	![Pasted image 20210228170305](https://user-images.githubusercontent.com/71016915/109419785-2c2c9600-79f5-11eb-86a6-89d4849a1fd4.png)
 
 	
+	
+	
+	Root_flag: flag{REDACTED}
+	
+	Just for fun, I decoded the other string and this is the decoded string.
+	
+	![Pasted image 20210228170522](https://user-images.githubusercontent.com/71016915/109419711-cfc97680-79f4-11eb-8c1a-494960cee23f.png)
+
+	
+	---
+	#### ***Thank You for reading my writeup. Hope you enjoyed it!!***
