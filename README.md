@@ -35,7 +35,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	`nmap -A -p 80 -T4 ip`
 	
-	![image](https://user-images.githubusercontent.com/71016915/114291631-a6494380-9aa6-11eb-9152-6a7f5bc71187.png)
+![image](https://user-images.githubusercontent.com/71016915/114291631-a6494380-9aa6-11eb-9152-6a7f5bc71187.png)
 
 	
 	
