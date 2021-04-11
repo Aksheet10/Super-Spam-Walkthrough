@@ -252,5 +252,4 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	wget ip:8080/c1.png
 	wget ip:8080/c1.png
 	wget ip:8080/c1.png
-	wget ip:8080/c1.png
-```
+	wget ip:8080/c1.png```
