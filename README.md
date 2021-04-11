@@ -211,7 +211,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Lets upgrade our shell by using `python3 -c 'import pty;pty.spawn("/bin/bash")'`
 	
-	![image](https://user-images.githubusercontent.com/71016915/114279027-33ad7900-9a50-11eb-8462-96184c647197.png)
+	![image](https://user-images.githubusercontent.com/71016915/114296530-7ceddf00-9ac9-11eb-81a7-bcf72081004d.png)
+
 	
 	Navigate to `/home/personal`.
 	
