@@ -310,7 +310,13 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	![image](https://user-images.githubusercontent.com/71016915/114297647-6ea2c180-9acf-11eb-9101-d2671636af9f.png)
 	
-	Now we remember we had VNC running as we found in our nmap scan.
+	---
+	
+	## Getting Root
+	
+	---
+	
+	Now we remember we had VNCviwer running as we found in our nmap scan.
 	
 	Lets try to gain root using that
 	
@@ -325,7 +331,13 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	![image](https://user-images.githubusercontent.com/71016915/114300433-f1327d80-9add-11eb-9af5-17feab92e80d.png)
 
 
-	Do port forwarding with ssh as you know **donald_dump**'s password  , `ssh -L 5901:localhost:5901 donalddump@ip`
+	Do port forwarding with ssh as you know **donald_dump**'s password  , `ssh -L 5901:localhost:5901 donalddump@ip -p 4012`
+	
+	![image](https://user-images.githubusercontent.com/71016915/114300582-abc28000-9ade-11eb-97e3-7bf8b8ac4c43.png)
+
+	---
+	
+	#### Note : Make sure you have VNCviewer installed, if not please install it using 
 	
 
 	
