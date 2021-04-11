@@ -224,8 +224,13 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	![image](https://user-images.githubusercontent.com/71016915/114291947-c5e16b80-9aa8-11eb-8be3-e4e3305f4bd4.png)
 	
-	We see an **hidden* directory `.MessagesBackupToGalactic`
-	Let's navigate to that folder and view
+	We see an **hidden** directory `.MessagesBackupToGalactic`. Let's navigate to that folder and view files
+	
+	![image](https://user-images.githubusercontent.com/71016915/114295810-2a122880-9ac5-11eb-8685-3ffb2d444879.png)
+	
+	We can see a lot of `png`, a python file and a `note.txt`
+	
+	
 	#### Q3. What type of encryption did super-spam use to send his encrypted messages?
 		- XOR
 
