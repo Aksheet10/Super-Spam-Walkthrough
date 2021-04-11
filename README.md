@@ -39,7 +39,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	![image](https://user-images.githubusercontent.com/71016915/114291631-a6494380-9aa6-11eb-9152-6a7f5bc71187.png)
 
-	
+	---
 	
 - #### FTP
 	Lets login in FTP with **anonymous**
@@ -186,10 +186,13 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	Now lets try to upload again
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278834-3bb8e900-9a4f-11eb-817f-be17d5e30028.png)
+
 	
 	Click on `Upload Files` on the top right
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278866-63a84c80-9a4f-11eb-8702-8b00ec506494.png)
+	![image](https://user-images.githubusercontent.com/71016915/114291733-57e87480-9aa7-11eb-8eb2-d2e2c1ed078f.png)
+
 
 	Boom!! Its successfull!
 	
