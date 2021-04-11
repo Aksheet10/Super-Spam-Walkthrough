@@ -169,6 +169,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	Now lets upload this in the website and set up a listener on *our*  machine - `nc -lvnp 1234` (replace 1234 with the port you have changed in the php reverse shell script)
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278654-753d2480-9a4e-11eb-9828-934975a4d160.png)
+	![image](https://user-images.githubusercontent.com/71016915/114291777-a564e180-9aa7-11eb-9d54-7a2b7ff3c5a5.png)
+
 
 	Looks like .php extension is an invalid extension
 	
@@ -191,7 +193,6 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Click on `Upload Files` on the top right
 	
-	![image](https://user-images.githubusercontent.com/71016915/114278866-63a84c80-9a4f-11eb-8702-8b00ec506494.png)
 	![image](https://user-images.githubusercontent.com/71016915/114291733-57e87480-9aa7-11eb-8eb2-d2e2c1ed078f.png)
 
 
