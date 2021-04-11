@@ -337,7 +337,7 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	---
 	
-	#### Note : Make sure you have VNCviewer installed, if not please install it using this [link][https://www.realvnc.com/en/connect/download/viewer/linux/]
+	#### Note : Make sure you have VNCviewer installed, if not please install it using this [link](https://www.realvnc.com/en/connect/download/viewer/linux/)
 	
 
 	
