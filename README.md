@@ -168,7 +168,6 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Now lets upload this in the website and set up a listener on *our*  machine - `nc -lvnp 1234` (replace 1234 with the port you have changed in the php reverse shell script)
 	
-	![image](https://user-images.githubusercontent.com/71016915/114278654-753d2480-9a4e-11eb-9828-934975a4d160.png)
 	![image](https://user-images.githubusercontent.com/71016915/114291777-a564e180-9aa7-11eb-9d54-7a2b7ff3c5a5.png)
 
 
@@ -209,10 +208,23 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	After you click on that link. You will get a reverse shell.
 	
 	![image](https://user-images.githubusercontent.com/71016915/114279027-33ad7900-9a50-11eb-8462-96184c647197.png)
+	
+	Navigate to `/home/personal`.
+	
+	There are a lot of files
+	
+	To find the user flag we need to `grep` through all the files - `cat * | grep flag`
+	
+	![image](https://user-images.githubusercontent.com/71016915/114291839-3471f980-9aa8-11eb-90d5-15ea8ef5bbb5.png)
+
+	Now go to `/home/lucy_loser` and list the files
 
 
+	![image](https://user-images.githubusercontent.com/71016915/114291947-c5e16b80-9aa8-11eb-8be3-e4e3305f4bd4.png)
+	
+	Q3. What type of encryption did super-spam use to send his encrypted messages?
 
-
-
+	![image](https://user-images.githubusercontent.com/71016915/114291969-f4f7dd00-9aa8-11eb-98b2-5e5a10198d73.png)
+	
 
 
