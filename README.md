@@ -371,16 +371,20 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	By copying the **what am i?** string and paste it in [CyberChef](https://gchq.github.io/CyberChef/)
 	
-	![Pasted image 20210228165937](https://user-images.githubusercontent.com/71016915/109419801-3a7ab200-79f5-11eb-81fd-afc166225943.png)
 	![image](https://user-images.githubusercontent.com/71016915/114301483-c39c0300-9ae2-11eb-972f-6d9dc163da11.png)
-
+	
+	
+	Now we get the decoded string which has the root flag!
 
 	![image](https://user-images.githubusercontent.com/71016915/114301423-6b650100-9ae2-11eb-8d01-4ce537fb72b1.png)
 	
 	
 	Root_flag: flag{REDACTED}
 	
-	Just for fun, I decoded the other string and this is the decoded string.
+	---
+	
+	
+	#### Just for fun, I decoded the other string and this is the decoded string.
 	
 	![Pasted image 20210228170522](https://user-images.githubusercontent.com/71016915/109419711-cfc97680-79f4-11eb-8c1a-494960cee23f.png)
 
