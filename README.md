@@ -31,9 +31,10 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	**_Port 5901 = VNC_**
 	
 	
-	#### Q1. What CMS and version is being used? (format: wordpress x.x.x)
+#### Q1. What CMS and version is being used? (format: wordpress x.x.x)
 	
 	`nmap -A -p 80 -T4 ip`
+	
 	![image](https://user-images.githubusercontent.com/71016915/114291631-a6494380-9aa6-11eb-9152-6a7f5bc71187.png)
 
 	
