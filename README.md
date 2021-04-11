@@ -224,9 +224,12 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	![image](https://user-images.githubusercontent.com/71016915/114291947-c5e16b80-9aa8-11eb-8be3-e4e3305f4bd4.png)
 	
-	Q3. What type of encryption did super-spam use to send his encrypted messages?
+	#### Q3. What type of encryption did super-spam use to send his encrypted messages?
+		- XOR
 
 	![image](https://user-images.githubusercontent.com/71016915/114291969-f4f7dd00-9aa8-11eb-98b2-5e5a10198d73.png)
+	
+	
 	
 
 
