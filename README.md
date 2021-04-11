@@ -379,7 +379,6 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 
 	
 	
-	
 	Root_flag: flag{REDACTED}
 	
 	Just for fun, I decoded the other string and this is the decoded string.
