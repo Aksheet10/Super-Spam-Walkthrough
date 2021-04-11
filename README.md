@@ -312,5 +312,13 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	Now we remember we had VNC running as we found in our nmap scan.
 	
 	Lets try to gain root using that
+	
+	Grab VNC passwd file from donaldump's directory
+	
+	![image](https://user-images.githubusercontent.com/71016915/114300323-63ef2900-9add-11eb-8435-5fb7eafc1010.png)
+	
+	
+
+	
 
 	
