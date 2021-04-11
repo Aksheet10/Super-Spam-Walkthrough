@@ -355,7 +355,6 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Lets do `su root` in the donalddump ssh shell
 	
-	![image](https://user-images.githubusercontent.com/71016915/114301172-3ad09780-9ae1-11eb-8cf0-385ffba34fbf.png)
 
 	![image](https://user-images.githubusercontent.com/71016915/114301206-7b301580-9ae1-11eb-9a3d-876186b69f47.png)
 
