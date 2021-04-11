@@ -228,12 +228,14 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	Now go to `/home/lucy_loser` and list the files
 	
-	![image](https://user-images.githubusercontent.com/71016915/114296651-174e2280-9aca-11eb-9616-e3b7f9e46aab.png)
+	![image](https://user-images.githubusercontent.com/71016915/114296680-3d73c280-9aca-11eb-82dd-103b6874a84a.png)
+
 
 	
 	We see an **hidden** directory `.MessagesBackupToGalactic`. Let's navigate to that folder and view files
 	
-	![image](https://user-images.githubusercontent.com/71016915/114295810-2a122880-9ac5-11eb-8685-3ffb2d444879.png)
+	![image](https://user-images.githubusercontent.com/71016915/114296651-174e2280-9aca-11eb-9616-e3b7f9e46aab.png)
+	
 	
 	We can see a lot of `png`, a python file and a `note.txt`
 	
