@@ -375,8 +375,8 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	![Pasted image 20210228165937](https://user-images.githubusercontent.com/71016915/109419801-3a7ab200-79f5-11eb-81fd-afc166225943.png)
 	
 	Click on on the wand next to *Output*.
-	![Pasted image 20210228170305](https://user-images.githubusercontent.com/71016915/109419785-2c2c9600-79f5-11eb-86a6-89d4849a1fd4.png)
 
+	![image](https://user-images.githubusercontent.com/71016915/114301423-6b650100-9ae2-11eb-8d01-4ce537fb72b1.png)
 	
 	
 	Root_flag: flag{REDACTED}
