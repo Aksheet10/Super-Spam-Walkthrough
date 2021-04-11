@@ -218,10 +218,14 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	There are a lot of files
 	
+	![image](https://user-images.githubusercontent.com/71016915/114296562-ac9ce700-9ac9-11eb-8f4c-b97c929e3e98.png)
+
+	
 	To find the user flag we need to `grep` through all the files - `cat * | grep flag`
 	
-	![image](https://user-images.githubusercontent.com/71016915/114291839-3471f980-9aa8-11eb-90d5-15ea8ef5bbb5.png)
+	![image](https://user-images.githubusercontent.com/71016915/114296577-cc340f80-9ac9-11eb-92c4-fcabef9a0d1c.png)
 
+	
 	Now go to `/home/lucy_loser` and list the files
 
 
