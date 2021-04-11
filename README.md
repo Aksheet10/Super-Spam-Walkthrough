@@ -177,10 +177,10 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278719-b9c8c000-9a4e-11eb-82ac-177523e7a080.png)
 	
-	Add `, php` at the end 
 	
 	![image](https://user-images.githubusercontent.com/71016915/114278749-d238da80-9a4e-11eb-8193-0471ed7a4b67.png)
 
+	Add `, php` at the end 
 
 	![image](https://user-images.githubusercontent.com/71016915/114278804-0dd3a480-9a4f-11eb-8497-bee8ff050ef9.png)
 	
@@ -205,8 +205,6 @@ This machine can take 5-10 minutes to setup. Sometimes after 30 minutes the mach
 	
 
 	![image](https://user-images.githubusercontent.com/71016915/114295659-3fd31e00-9ac4-11eb-9a68-92ea6968820f.png)
-
-	
 	
 	
 	After you click on that link. You will get a reverse shell.
