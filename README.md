@@ -1,4 +1,6 @@
 # Super-Spam Official Walkthrough
+
+Room link - https://tryhackme.com/jr/superspamr
  ---
  
  **(Note to tester: the machine needs more resources to speed up this time)**
