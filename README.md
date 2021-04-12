@@ -245,9 +245,10 @@ Good luck Have fun solving it :)
 	
 	
 	#### Q3. What type of encryption did super-spam use to send his encrypted messages?
-		- XOR
+	
 
-	![image](https://user-images.githubusercontent.com/71016915/114296784-becb5500-9aca-11eb-8224-4990e90ce66c.png)
+	![image](https://user-images.githubusercontent.com/71016915/114379829-edb6f900-9ba6-11eb-83c4-ff340b318112.png)
+
 	
 	
 	Lets download all the `png`s to our machine using a python3 http server - `python3 -m http.server 2222`. 
