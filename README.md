@@ -342,7 +342,8 @@ Good luck Have fun solving it :)
 
 	---
 	
-	#### Note : Make sure you have VNCviewer installed, if not please install it using this [link](https://www.realvnc.com/en/connect/download/viewer/linux/) or `sudo apt install tigervnc-viewer`
+	#### Note : Make sure you have VNCviewer installed, if not please install it using this [link](https://www.realvnc.com/en/connect/download/viewer/linux/) 
+	or `sudo apt install tigervnc-viewer`
 	
 	Run - `vncviewer -passwd passwd_file ip::5901`  on your machine.
 	
