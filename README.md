@@ -170,12 +170,12 @@ Good luck Have fun solving it :)
 	
 	Download this on your machine and change the ip address in it using a text edittor
 	
-	Now lets upload this in the website and set up a listener on *our*  machine - `nc -lvnp 1234` (replace 1234 with the port you have changed in the php reverse shell script)
+	Now lets upload this in the website and set up a listener on *our*  machine :  `nc -lvnp 1234` (replace 1234 with the port you have changed in the php reverse shell script)
 	
 	![image](https://user-images.githubusercontent.com/71016915/114291777-a564e180-9aa7-11eb-9d54-7a2b7ff3c5a5.png)
 
 
-	Looks like .php extension is an invalid extension
+	Looks like `.php` extension is an invalid extension
 	
 	Lets fix that.
 	
