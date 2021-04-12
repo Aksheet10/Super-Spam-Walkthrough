@@ -45,7 +45,7 @@ Good luck Have fun solving it :)
 
 	---
 	
-- #### FTP
+- ### FTP
 	Lets login in FTP with **anonymous**
 	
 	`ftp  10.10.103.218 4012`
@@ -106,7 +106,7 @@ Good luck Have fun solving it :)
 	 
 	 ---
 
-### Website
+  - ### Website
 
 
 	Lets check out the *website*.
@@ -319,7 +319,7 @@ Good luck Have fun solving it :)
 	
 	---
 	
-	## Getting Root
+	- ### Getting Root
 	
 	---
 	
