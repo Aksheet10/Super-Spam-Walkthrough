@@ -323,7 +323,7 @@ Good luck Have fun solving it :)
 	
 	---
 	
-	Now we remember we had VNCviwer running as we found in our nmap scan.
+	Now we remember we had VNCviewer running as we found in our nmap scan.
 	
 	Lets try to gain root using that
 	
