@@ -118,7 +118,7 @@ Good luck Have fun solving it :)
 	After viewing all the blogs, I found these usernames
 	 -	***Adam_Admin***
 	 -	***Benjamin_Blogger***
-	 -	***Donalddump***
+	 -	***Donald_dump***
 	 -	***Lucy_Loser***
 	
 	We have 1 password and 4 users. Let's try logging in.
