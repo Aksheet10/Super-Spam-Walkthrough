@@ -363,7 +363,8 @@ Good luck Have fun solving it :)
 	Lets do `su root` in the donalddump ssh shell
 	
 
-	![image](https://user-images.githubusercontent.com/71016915/114301206-7b301580-9ae1-11eb-9a3d-876186b69f47.png)
+	![image](https://user-images.githubusercontent.com/71016915/128607943-15a292e0-d63c-497f-97e4-c4145e1f7720.png)
+
 
 	We see a unusual hidden directory called `.nothing`
 	
