@@ -153,9 +153,7 @@ Good luck Have fun solving it :)
 	
 	And you will see  this
 
-	![image](https://user-images.githubusercontent.com/71016915/128586933-e88d38ab-4951-4dc2-81a1-3210db2ce360.png)
-	
-	Click the System and Settings
+
 	
 	![image](https://user-images.githubusercontent.com/71016915/114277739-22fa0480-9a4a-11eb-8014-e3ff85c94b28.png)
 	
