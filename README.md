@@ -71,14 +71,10 @@ Good luck Have fun solving it :)
 	 
 	 Lets navigate into that directory and check its contents
 	 
-	
-	 ![image](https://user-images.githubusercontent.com/71016915/114277040-10ca9700-9a47-11eb-838b-9b0c1dfb4441.png)
-
+	 ![image](https://user-images.githubusercontent.com/71016915/128585623-a4243dee-8055-4eec-b96f-3bc1b1f32d07.png)
 
 	 
-	 Lots of files, but if u see the file size, there are huge files and some ***0 bytes*** files, so i don't think they shall be the files we need.
-	 
-	 We can see a file with **_370488 bytes_** which looks like it is a legit file we can download on our machine.
+	 We can see a file called SamsNetwork.cap, we can download on our machine.
 	 
 	 `-rwxr--r--    1 ftp      ftp        370488 Feb 20 14:46 SamsNetwork.cap`
 	 
